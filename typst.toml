@@ -1,0 +1,8 @@
+[package]
+name = "tabley"
+version = "0.1.0"
+authors = ["RubixDev"]
+entrypoint = "tabley.typ"
+license = "MIT"
+repository = "https://github.com/RubixDev/typst-tabley"
+description = "Basic experimental tables in CeTZ."
